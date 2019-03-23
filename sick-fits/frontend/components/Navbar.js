@@ -2,7 +2,7 @@ import Link from 'next/link';
 import NavStyles from './styles/NavStyles'
 const Navbar = () => (
     <NavStyles>
-        <Link href="/items">Items</Link>
+        <Link href="/items">Shop</Link>
         <Link href="/sell">Sell</Link>
         <Link href="/signup">Signup</Link>
         <Link href="/orders">Orders</Link>
