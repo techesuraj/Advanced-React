@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import UpdateItem from '../components/UpdateItem';
 
 const Sell = ({ query }) => (
